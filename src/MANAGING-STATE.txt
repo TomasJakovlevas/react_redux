@@ -1,0 +1,12 @@
+STATE MANAGEMENT TECHNIQUES IN REDUX:
+
+1. REDUX:
+-- stores STATE
+-- manipulates STATE
+--- NOTE: Todos state example
+
+2. REDUX:
+-- stores STATE
+-- manipulates STATE
+-- makes API requests (and add them to state)
+--- NOTE: Posts state example
